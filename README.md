@@ -1,4 +1,4 @@
-# ciberinteligencia-tfm
+# Monitorización y vigilancia a través de redes sociales para Ciberinteligencia
 
 ¿Somos conscientes de la cantidad de información privada que generamos a diario en las redes sociales? Para dar respuesta a esta pregunta comenzaremos estudiando lo que entendemos por privacidad y uno de los temas más controvertidos de la actualidad como es la pérdida de dicha privacidad con el uso de las redes sociales apoyándonos en los comentarios y opiniones de algunos de los responsables de estas área en la Policía Nacional apoyada con algunos ejemplos reales donde se aprecia el poder de las redes sociales.A continuación nos plantearemos cómo los Servicios de Inteligencia trabajan en este área así como el papel que realizan los Analistas de inteligencia.
 
